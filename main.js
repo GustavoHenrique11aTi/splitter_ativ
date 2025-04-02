@@ -51,4 +51,4 @@ let buttonSelected = null
         let totalPerson = (bill / numberOfPeople) + tipAmountPerson
         strongTotal.innerText = $${totalPerson.toFixed(2)}
     }
- } 
+ }
