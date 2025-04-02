@@ -1,3 +1,4 @@
+
 let bill = 0
 let tip = 0
 let numberOfPeople = 0
@@ -65,3 +66,5 @@ let buttonSelected = null
     tipPercentage = 0
 
     document.querySelector(".amount strong").innerText = "$0.00"
+    document.querySelector(".total strong").innerText = "$0.00"
+ }
